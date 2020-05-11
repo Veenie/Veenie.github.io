@@ -1,11 +1,11 @@
 # Site settings
 author: Raveen K Sharma
-title: 
+title: Raveen's Coding Blog
 header-img: img/home-bg.png
 email: raveen08@gmail.com
 copyright_name: Raveen K Sharma
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow me on my journey through the world of coding!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Veenie
